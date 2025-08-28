@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1024px" height="380px" viewBox="0 0 1024 380">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="512" y1="379.925" x2="512" y2="-0.025000000000034106" spreadMethod="pad">
+<stop  offset="0%" stop-color="#000000" stop-opacity="0.8"/>
+
+<stop  offset="100%" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+</defs>
+
+<g id="Layer_1">
+<g>
+<g>
+<g>
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 1024 380
+L 1024 0 0 0 0 380 1024 380 Z"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
